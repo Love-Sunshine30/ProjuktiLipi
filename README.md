@@ -1,4 +1,4 @@
-# Java Password Hasher
+# Java Password Manager
 
 This is a simple **Java-based password encryption and verification tool** that demonstrates how to use the **BCrypt** hashing algorithm to securely store and check passwords.  
 It follows **Object-Oriented Programming (OOP)** principles and performs basic file writing operations to save user credentials.
